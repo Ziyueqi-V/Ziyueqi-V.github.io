@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T15:14:20.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.10.9" etag="JHBVhR_oAuUwDOMFwkjk" type="github"><diagram id="TTZw09hg_OW1Nc7mtaya">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-08T15:27:10.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3P0ahkNxO4hLObsLQnd3" version="13.10.9" type="github">
+  <diagram id="TTZw09hg_OW1Nc7mtaya" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hjzLBoc9mHPtT4V0gyQF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="hjzLBoc9mHPtT4V0gyQF-1" target="hjzLBoc9mHPtT4V0gyQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjzLBoc9mHPtT4V0gyQF-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;王晓麟&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hjzLBoc9mHPtT4V0gyQF-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;江苏赛麟&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hjzLBoc9mHPtT4V0gyQF-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;南通嘉禾&lt;br&gt;（国企）&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hjzLBoc9mHPtT4V0gyQF-5" value="如皋政府" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
